@@ -1,7 +1,9 @@
 # Ethical-hacking-IT-Certificates
 
 ### This is the famous Google cybersecurity certificate
+<p align="center">
 <img align="center" width=70% src="01- CIBERSEGURIDAD DE GOOGLE.jpg" alt="Output" />
+</p>
 Google's cybersecurity certificate, recognized worldwide for its comprehensive curriculum and practical approach to cybersecurity.
 
 ### This is the University Expert in Ethical hacking from UTN
