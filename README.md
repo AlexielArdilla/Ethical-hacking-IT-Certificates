@@ -1,5 +1,5 @@
 # Ethical-hacking-IT-Certificates
-
+<p align="center">
 ### This is the famous Google cybersecurity certificate
 <img align="center" width=70% src="01- CIBERSEGURIDAD DE GOOGLE.jpg" alt="Output" />
 Google's cybersecurity certificate, recognized worldwide for its comprehensive curriculum and practical approach to cybersecurity.
@@ -83,5 +83,5 @@ A cybersecurity learning path provided by the government of Argentina, highlight
 ### This is Udemy's Complete Ethical Hacking Course
 <img align="center" width=70% src="21- The Complete Ethical Hacking Course.jpg" alt="Output" />
 Udemy's complete course on Ethical Hacking, offering a thorough curriculum for becoming an ethical hacker.
-
+</p>
 ##### Thanks for reading.
