@@ -122,7 +122,7 @@ A cybersecurity learning path provided by the government of Argentina, highlight
 
 ### This is the "Linux Verttificate" given by Edicación IT 
 <p align="center">
-<img align="center" width=70% src="22- Certificado-Introducción-a-Linux-EducaciónIT" alt="Output" />
+<img align="center" width=70% src="22- Certificado-Introducción-a-Linux-EducaciónIT.png" alt="Output" />
 </p>
 A course provided by Educación IT related to the career Ciberseguridad.
 
