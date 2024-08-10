@@ -120,6 +120,12 @@ A certificate focusing on safe browsing practices, crucial for protecting person
 </p>
 A cybersecurity learning path provided by the government of Argentina, highlighting key areas of national security.
 
+### This is the "Linux Verttificate" given by Edicación IT 
+<p align="center">
+<img align="center" width=70% src="22- Certificado-Introducción-a-Linux-EducaciónIT" alt="Output" />
+</p>
+A course provided by Educación IT related to the career Ciberseguridad.
+
 ### This is Udemy's Complete Ethical Hacking Course
 <p align="center">
 <img align="center" width=70% src="21- The Complete Ethical Hacking Course.jpg" alt="Output" />
@@ -127,3 +133,4 @@ A cybersecurity learning path provided by the government of Argentina, highlight
 Udemy's complete course on Ethical Hacking, offering a thorough curriculum for becoming an ethical hacker.
 
 ##### Thanks for reading.
+
