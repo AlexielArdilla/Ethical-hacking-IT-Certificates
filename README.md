@@ -120,7 +120,7 @@ A certificate focusing on safe browsing practices, crucial for protecting person
 </p>
 A cybersecurity learning path provided by the government of Argentina, highlighting key areas of national security.
 
-### This is the "Linux Verttificate" given by Edicación IT 
+### This is the "Linux Certificate" given by Educación IT 
 <p align="center">
 <img align="center" width=70% src="22- Certificado-Introducción-a-Linux-EducaciónIT.png" alt="Output" />
 </p>
