@@ -69,5 +69,8 @@
 ### This is the UTN's course Python Intermediate Course
 <img align="center" width=100% src="img/23- Python intermedio UTN.jpg"   alt="Output" />
 
+### This is the Codecademy's course Fundamentals of Cybersecurity Skill Path
+<img align="center" width=100% src="img/24- Fundamentals of cybersecurity skill path.jpg"   alt="Output" />
+
 ##### Thanks for reading.
 
