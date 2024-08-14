@@ -33,9 +33,6 @@
 ### This is Codecademy's Java certificate
 <img align="center" width=100% src="img/11- Codecademy Java Alejandro G Vera.jpg"   alt="Output" />
 
-### This is the famous Responsive web design by FreeCodeCamp
-<img align="center" width=100% src="img/12- Responsive web design certificate JPG.jpg"   alt="Output" />
-
 ### This is the Codecademy Comand_line course
 <img align="center" width=100% src="img/13- Codecademy COMMAND_LINE Alejandro G Vera.jpg"   alt="Output" />
 
